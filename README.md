@@ -1,6 +1,12 @@
 # Digital Sovereignty
 
-<-- prompt
+Digital sovereignty guidance:
+
+* [Digital sovereignty overview - read below](#what-it-is)
+* [Digital sovereignty checklist for public sector organizations](./digital-sovereignty-checklist-for-public-sector-organizations/)
+* [Digital sovereignty - cloud providers - United Kingdom](./digital-sovereignty-cloud-providers-united-kingdom/)
+
+<!-- prompt
 
 Explain digital sovereignty:
 
@@ -18,7 +24,9 @@ Explain digital sovereignty:
 
 Digital sovereignty refers to the ability to have control over your own digital destiny — the data, hardware and software that you rely on and create. More specifically, it encompasses data sovereignty (ability to exercise full control over data), technological sovereignty (ability to independently develop and control technological infrastructure), cybersecurity sovereignty (protecting digital infrastructure from threats), and legislative sovereignty.
 
-The concept has evolved beyond simple data protection. It encompasses the physical layer (infrastructure, technology), the code layer (standards, rules and design) and the data layer (ownership, flows and use). At its core, digital sovereignty is about maintaining autonomy and self-determination in an increasingly digital world where foreign tech companies and borderless internet pose new challenges to traditional state control.
+## How it Evolved 
+
+The concept has evolved beyond simple data protection. It encompasses the physical layer (infrastructure, technology), the code layer (standards, rules, and design) and the data layer (ownership, flows, and use). At its core, digital sovereignty is about maintaining autonomy and self-determination in an increasingly digital world where foreign tech companies and borderless internet pose new challenges to traditional state control.
 
 ## How It Works
 
@@ -40,7 +48,7 @@ The digital sovereignty landscape faces several significant challenges:
 
 **Regulatory fragmentation** creates complexity. Despite GDPR harmonization, supplementary national laws like Germany's BDSG and France's Loi Informatique et Libertés create compliance complexities, with 43% of multinationals facing conflicting mandates when operating across multiple EU states.
 
-**Vendor dependencies** remain problematic. Europe and other regions struggle with heavy reliance on US hyperscalers (AWS, Azure, Google Cloud) for cloud infrastructure and on US and Chinese companies for AI capabilities. This creates strategic vulnerabilities that sovereignty initiatives aim to address.
+**Vendor dependencies** remain problematic. Europe and other regions struggle with heavy reliance on US for-profit hyperscalers (Amazon, Google, Microsoft) for cloud infrastructure and on US and Chinese companies for AI capabilities. This creates strategic vulnerabilities that sovereignty initiatives aim to address.
 
 ## Public Sector Areas
 
