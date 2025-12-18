@@ -8,7 +8,7 @@ This is a work in progress. This table of cloud providers is ranked by my person
 
 | Company        | Owners          | UK/EU  | UK VPS? | Alignment? | Account? | Pros                                                | Cons                                                    |
 |----------------|-----------------|--------|---------|------------|----------|-----------------------------------------------------|---------------------------------------------------------|
-| **Krystal.io** | 🇬🇧 UK          | 🇬🇧 UK  | ✅       | 🔶          | ✅        | UK home. London VPS. B-Corp. Superb sustainability. | UK and Amsterdam, no other geographies. Abysmal chat support- disorganized, non-transferrable, not lifting              |
+| **Krystal.io** | 🇬🇧 UK          | 🇬🇧 UK  | ✅       | ✅          | ✅        | UK home. London VPS. B-Corp. Superb sustainability. CEO help. | UK and Amsterdam, no other geographies. BYO emailer.              |
 | **Coolify**    | 🇬🇧 UK          | 🇬🇧 UK  | ✅       | ✅          | ✅        | UK meta-provider for distributed deploys.           | Requires hosting delegation, such as to Krystal.io.     |
 | **UpCloud**    | 🇫🇮 Finland     | 🇪🇺 EU  | ✅       | ✅          | ✅        | Looks great for bare-knuckle engineering.           | None yet.                                               |
 | **server.net** | 🇮🇹 Italy       | 🇪🇺 EU  | ✅       | 🔶          | ❌        | London VPS. Superb chat support.                    | Owners are not UK citizens. HQ leads to Italy not UK.   |
