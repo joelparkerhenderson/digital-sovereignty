@@ -6,22 +6,25 @@ Summary: I'm researching digital sovereignty options for cloud providers for Uni
 
 This is a work in progress. This table of cloud providers is ranked by my personal preference, based on my direct experience thus far.
 
-| Company        | Owners          | UK/EU  | UK VPS? | Alignment? | Account? | Pros                                                | Cons                                                    |
-|----------------|-----------------|--------|---------|------------|----------|-----------------------------------------------------|---------------------------------------------------------|
-| **Krystal.io** | 🇬🇧 UK          | 🇬🇧 UK  | ✅       | ✅          | ✅        | UK home. London VPS. B-Corp. Superb sustainability. CEO help. | UK and Amsterdam, no other geographies. BYO emailer.              |
-| **Coolify**    | 🇬🇧 UK          | 🇬🇧 UK  | ✅       | ✅          | ✅        | UK meta-provider for distributed deploys.           | Requires hosting delegation, such as to Krystal.io.     |
-| **UpCloud**    | 🇫🇮 Finland     | 🇪🇺 EU  | ✅       | ✅          | ✅        | Looks great for bare-knuckle engineering.           | None yet.                                               |
-| **server.net** | 🇮🇹 Italy       | 🇪🇺 EU  | ✅       | 🔶          | ❌        | London VPS. Superb chat support.                    | Owners are not UK citizens. HQ leads to Italy not UK.   |
-| **OVH**        | 🇫🇷 France      | 🇪🇺 EU  | 🔶       | ❌          | ✅        | Largest best offerings similar to AWS, GC, MS.      | Currently completely sold out of UK VPS offerings.      |
-| **Hetzner**    | 🇩🇪 Germany     | 🇪🇺 EU  | 🚫       | ❌          | ❌        | Best customer ratings. Excellent prices.            | Limited cloud offerings.                                |
-| **Elastx**     | 🇸🇪 Sweden      | 🇪🇺 EU  | 🚫       | ✅          | ❌        | OpenStack purity, which is amazing.                 | Data centres only in Sweden.                            |
-| **Scaleway**   | 🇫🇷 France      | 🇪🇺 EU  | 🚫       | ❓          | ❌        | Looks professional.                                 | Signup/FTUX broke.                                      |
-| **Exoscale**   | 🇨🇭 Switzerland | 🇪🇺 EU  | 🚫       | ✅          | ✅        | Swiss data protections.                             | Intermixes Swiss law vs EU law.                         |
-| **Cyso Cloud** | 🇳🇴 Norway      | 🇪🇺 EU  | ❓       | ✅          | ❓        | OpenStack semi-purity, which is pretty good.        | Unknown.                                                |
-| **Gridscale**  | 🇩🇪 Germany     | 🇪🇺 EU  | ❓       | ❓          | ❓        | Unknown.                                            | Unknown.                                                |
-| **IONOS**      | 🇩🇪 Germany     | 🇪🇺 EU  | ❓       | ❓          | ❓        | German market leader. SECA API. EuroStack member.   | Documentation primarily in German.                      |
-| **Orange**      | 🇫🇷 France     | 🇪🇺 EU  | ❓       | ❓          | ❓        | EU telco leader. Extensive digital teams.   | No obvious way to sign up for consumer VPS.                      |
-| **AWS EU**     | TBD            | 🇪🇺 EU  | ❓       | ❓          | ❓        | AWS EU digital sovereign cloud work in progress.    | Not yet released.                                       | 
+<<<<<<< HEAD
+| Company         | Owners          | UK/EU  | UK VPS? | Alignment? | Account? | Pros                                                | Cons                                                    |
+|-----------------|-----------------|--------|---------|------------|----------|-----------------------------------------------------|---------------------------------------------------------|
+| **Krystal.io**  | 🇬🇧 UK           | 🇬🇧 UK  | ✅       | ✅          | ✅        | UK home. London VPS. B-Corp. Superb sustainability. CEO help. | UK and Amsterdam, no other geographies. BYO emailer.              |
+| **Coolify**     | 🇬🇧 UK           | 🇬🇧 UK  | ✅       | ✅          | ✅        | UK meta-provider for distributed deploys.           | Requires hosting delegation, such as to Krystal.io.     |
+| **UpCloud**     | 🇫🇮 Finland      | 🇪🇺 EU  | ✅       | ✅          | ✅        | Looks great for bare-knuckle engineering.           | None yet.                                               |
+| **server.net**  | 🇮🇹 Italy        | 🇪🇺 EU  | ✅       | 🔶          | ❌        | London VPS. Superb chat support.                    | Owners are not UK citizens. HQ leads to Italy not UK.   |
+| **OVH**         | 🇫🇷 France       | 🇪🇺 EU  | 🔶       | ❌          | ✅        | Largest best offerings similar to AWS, GC, MS.      | Currently completely sold out of UK VPS offerings.      |
+| **Hetzner**     | 🇩🇪 Germany      | 🇪🇺 EU  | 🚫       | ❌          | ❌        | Best customer ratings. Excellent prices.            | Limited cloud offerings.                                |
+| **Elastx**      | 🇸🇪 Sweden       | 🇪🇺 EU  | 🚫       | ✅          | ❌        | OpenStack purity, which is amazing.                 | Data centres only in Sweden.                            |
+| **Scaleway**    | 🇫🇷 France       | 🇪🇺 EU  | 🚫       | ❓          | ❌        | Looks professional.                                 | Signup/FTUX broke.                                      |
+| **Exoscale**    | 🇨🇭 Switzerland  | 🇪🇺 EU  | 🚫       | ✅          | ✅        | Swiss data protections.                             | Intermixes Swiss law vs EU law.                         |
+| **Cyso Cloud**  | 🇳🇴 Norway       | 🇪🇺 EU  | ❓       | ✅          | ❓        | OpenStack semi-purity, which is pretty good.        | Unknown.                                                |
+| **Gridscale**   | 🇩🇪 Germany      | 🇪🇺 EU  | ❓       | ❓          | ❓        | Unknown.                                            | Unknown.                                                |
+| **IONOS**       | 🇩🇪 Germany      | 🇪🇺 EU  | ❓       | ❓          | ❓        | German market leader. SECA API. EuroStack member.   | Documentation primarily in German.                      |
+| **Orange**      | 🇫🇷 France       | 🇪🇺 EU  | ❓       | ❓          | ❓        | EU telco leader. Extensive digital teams.   | No obvious way to sign up for consumer VPS.                      |
+| **AWS EU**      | TBD             | 🇪🇺 EU  | ❓       | ❓          | ❓        | AWS EU digital sovereign cloud work in progress.    | Not yet released.                                       | 
+| **StackIT**     | 🇩🇪 Germany      | 🇪🇺 EU  | ❓       | ❓          | ❓        | Backed by Schwarz group - Germanys largest retailer (Lidl & Kaufland) | Reported problems with price changes |
+| **Clevercloud** | TBD             | ❓    | ❓       | ❓          | ❓        | TODO
 
 ## Compare Cloud Providers
 
@@ -43,6 +46,10 @@ Compare cloud providers:
 - **UpCloud** (Finland) - Performance leader, zero egress fees, 100% SLA
 - **Exoscale** (Switzerland) - Swiss sovereignty, maximum privacy, GDPR exemplary
 - **IONOS** (Germany) - German market leader, SECA API co-creator, EuroStack member
+- **Orange** (France) - TODO
+- **AWS EU** (Pending) - New AWS EU digital sovereign cloud, coming soon.
+- **StackIT** (TODO) - TODO
+- **Clevercloud** (TODO) - TODO
 
 **Critical Findings:**
 - All providers offer **zero US CLOUD Act exposure** (European jurisdiction)
