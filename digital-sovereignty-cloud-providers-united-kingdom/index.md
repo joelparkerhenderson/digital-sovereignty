@@ -21,6 +21,7 @@ This is a work in progress. This table of cloud providers is ranked by my person
 | **Gridscale**  | 🇩🇪 Germany     | 🇪🇺 EU  | ❓       | ❓          | ❓        | Unknown.                                            | Unknown.                                                |
 | **IONOS**      | 🇩🇪 Germany     | 🇪🇺 EU  | ❓       | ❓          | ❓        | German market leader. SECA API. EuroStack member.   | Documentation primarily in German.                      |
 | **Orange**      | 🇫🇷 France     | 🇪🇺 EU  | ❓       | ❓          | ❓        | EU telco leader. Extensive digital teams.   | No obvious way to sign up for consumer VPS.                      |
+| **AWS EU**     | TBD            | 🇪🇺 EU  | ❓       | ❓          | ❓        | AWS EU digital sovereign cloud work in progress.    | Not yet released.                                       | 
 
 ## Compare Cloud Providers
 
