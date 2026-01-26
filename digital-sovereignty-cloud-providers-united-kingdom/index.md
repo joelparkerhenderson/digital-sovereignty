@@ -14,9 +14,10 @@ This is a work in progress. This table of cloud providers is ranked by my person
 | **UpCloud**     | 🇫🇮 Finland      | 🇪🇺 EU  | ✅       | ✅          | ✅        | Looks great for bare-knuckle engineering.           | None yet.                                               |
 | **server.net**  | 🇮🇹 Italy        | 🇪🇺 EU  | ✅       | 🔶          | ❌        | London VPS. Superb chat support.                    | Owners are not UK citizens. HQ leads to Italy not UK.   |
 | **OVH**         | 🇫🇷 France       | 🇪🇺 EU  | 🔶       | ❌          | ✅        | Largest best offerings similar to AWS, GC, MS.      | Currently completely sold out of UK VPS offerings.      |
+| **Scaleway**    | 🇫🇷 France       | 🇪🇺 EU  | 🚫       | ✅          | ❌        | Extensive Rust work, great blogs.                     | Signup/FTUX broke.                                      |
+| **AWS EU**     | 🇩🇪 Germany      | 🇪🇺 EU  | 🚫       | 🔶          | ✅        | AWS Sovereign EU - different than AWS US.           | AWS confusion with US.                                  |
 | **Hetzner**     | 🇩🇪 Germany      | 🇪🇺 EU  | 🚫       | ❌          | ❌        | Best customer ratings. Excellent prices.            | Limited cloud offerings.                                |
 | **Elastx**      | 🇸🇪 Sweden       | 🇪🇺 EU  | 🚫       | ✅          | ❌        | OpenStack purity, which is amazing.                 | Data centres only in Sweden.                            |
-| **Scaleway**    | 🇫🇷 France       | 🇪🇺 EU  | 🚫       | ❓          | ❌        | Looks professional.                                 | Signup/FTUX broke.                                      |
 | **Exoscale**    | 🇨🇭 Switzerland  | 🇪🇺 EU  | 🚫       | ✅          | ✅        | Swiss data protections.                             | Intermixes Swiss law vs EU law.                         |
 | **Cyso Cloud**  | 🇳🇴 Norway       | 🇪🇺 EU  | ❓       | ✅          | ❓        | OpenStack semi-purity, which is pretty good.        | Unknown.                                                |
 | **Gridscale**   | 🇩🇪 Germany      | 🇪🇺 EU  | ❓       | ❓          | ❓        | Unknown.                                            | Unknown.                                                |
@@ -32,7 +33,7 @@ This is a work in progress. This table of cloud providers is ranked by my person
 
 Compare cloud providers:
 
-- Krystal, Coolify, Server.net, Scaleway, OVHcloud, UpCloud, Exoscale, Gridscale, Elastx, Cyso, IONOS.
+- Krystal, Coolify, Server.net, Scaleway, OVHcloud, AWS Sovereign EU, UpCloud, Exoscale, Gridscale, Elastx, Cyso, IONOS.
 - Explain key features, strengths, considerations, digital sovereignty.
 - Output as architecture decision record.
 
