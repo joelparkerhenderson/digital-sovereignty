@@ -32,6 +32,8 @@ Digital sovereignty refers to the ability to have control over your own digital 
 
 - [Zarah Sultana: Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)
 
+- [La France veut remplacer Microsoft Teams et Google Meet par « Visio », un outil souverain pour les appels vidéo](https://www.numerama.com/cyberguerre/2167301-la-france-veut-remplacer-microsoft-teams-et-google-meet-par-visio-un-outil-souverain-pour-les-appels-video.html)
+
 ## How it Evolved 
 
 The concept has evolved beyond simple data protection. It encompasses the physical layer (infrastructure, technology), the code layer (standards, rules, and design) and the data layer (ownership, flows, and use). At its core, digital sovereignty is about maintaining autonomy and self-determination in an increasingly digital world where foreign tech companies and borderless internet pose new challenges to traditional state control.
