@@ -24,6 +24,14 @@ Explain digital sovereignty:
 
 Digital sovereignty refers to the ability to have control over your own digital destiny — the data, hardware and software that you rely on and create. More specifically, it encompasses data sovereignty (ability to exercise full control over data), technological sovereignty (ability to independently develop and control technological infrastructure), cybersecurity sovereignty (protecting digital infrastructure from threats), and legislative sovereignty.
 
+## In the news
+
+- [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
+
+- [Von der Leyen urges European independence in response to 'seismic change'](https://www.youtube.com/watch?v=vIv-0iQyktw)
+
+- [Zarah Sultana: Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)
+
 ## How it Evolved 
 
 The concept has evolved beyond simple data protection. It encompasses the physical layer (infrastructure, technology), the code layer (standards, rules, and design) and the data layer (ownership, flows, and use). At its core, digital sovereignty is about maintaining autonomy and self-determination in an increasingly digital world where foreign tech companies and borderless internet pose new challenges to traditional state control.
@@ -97,3 +105,7 @@ Leaders need to act strategically and urgently:
 **Don't wait for regulations to force action**. Digital sovereignty is not a future trend — it's happening now. The time to act is today by assessing your tech stack, exploring sovereign cloud options, and preparing for sovereign AI-driven transformation, embracing sovereignty as a competitive advantage.
 
 The fundamental message for leaders is clear: CIOs and IT leaders must take responsibility for their organization's digital destiny and create and protect their own organization's digital sovereignty, as no one else will protect it — neither their cloud provider nor their service provider.
+
+## See also
+
+- [Say No to Palantir in the UK NHS](https://news.ycombinator.com/item?id=46405309)
