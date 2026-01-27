@@ -10,7 +10,7 @@ Digital sovereignty guidance:
 
 Explain digital sovereignty:
 
-- what it is *
+- what it is
 - how it works 
 - key issues 
 - public sector areas 
@@ -28,11 +28,12 @@ Digital sovereignty refers to the ability to have control over your own digital 
 
 - [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 
+- [France to ditch US platforms Microsoft Teams, Zoom for ‘sovereign platform’ amid security concerns](https://www.euronews.com/next/2026/01/27/france-to-ditch-us-platforms-microsoft-teams-zoom-for-sovereign-platform-amid-security-con)
+
 - [Von der Leyen urges European independence in response to 'seismic change'](https://www.youtube.com/watch?v=vIv-0iQyktw)
 
 - [Zarah Sultana: Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)
 
-- [La France veut remplacer Microsoft Teams et Google Meet par « Visio », un outil souverain pour les appels vidéo](https://www.numerama.com/cyberguerre/2167301-la-france-veut-remplacer-microsoft-teams-et-google-meet-par-visio-un-outil-souverain-pour-les-appels-video.html)
 
 ## How it Evolved 
 
