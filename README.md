@@ -2,18 +2,18 @@
 
 Digital sovereignty guidance:
 
-* [Digital sovereignty overview - read below](#what-it-is)
-* [Digital sovereignty checklist for public sector organizations](./digital-sovereignty-checklist-for-public-sector-organizations/)
-* [Digital sovereignty - cloud providers - United Kingdom](./digital-sovereignty-cloud-providers-united-kingdom/)
+- [Digital sovereignty overview - read below](#what-it-is)
+- [Digital sovereignty checklist for public sector organizations](./digital-sovereignty-checklist-for-public-sector-organizations/)
+- [Digital sovereignty - cloud providers - United Kingdom](./digital-sovereignty-cloud-providers-united-kingdom/)
 
 <!-- prompt
 
 Explain digital sovereignty:
 
 - what it is
-- how it works 
-- key issues 
-- public sector areas 
+- how it works
+- key issues
+- public sector areas
 - high-security areas
 - different laws in different countries
 - what should company leaders be doing now?
@@ -34,8 +34,11 @@ Digital sovereignty refers to the ability to have control over your own digital 
 
 - [Zarah Sultana: Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)
 
+- [Geopolitics push European CIOs to think local on cloud](https://www.theregister.com/2025/11/13/gartner_cio_cloud_sovereignty/)
 
-## How it Evolved 
+- [Euro firms must ditch US clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
+
+## How it Evolved
 
 The concept has evolved beyond simple data protection. It encompasses the physical layer (infrastructure, technology), the code layer (standards, rules, and design) and the data layer (ownership, flows, and use). At its core, digital sovereignty is about maintaining autonomy and self-determination in an increasingly digital world where foreign tech companies and borderless internet pose new challenges to traditional state control.
 
