@@ -24,7 +24,10 @@ Explain digital sovereignty:
 
 Digital sovereignty refers to the ability to have control over your own digital destiny — the data, hardware and software that you rely on and create. More specifically, it encompasses data sovereignty (ability to exercise full control over data), technological sovereignty (ability to independently develop and control technological infrastructure), cybersecurity sovereignty (protecting digital infrastructure from threats), and legislative sovereignty.
 
-## In the news
+<details>
+    <summary>Top news articles</summary>
+
+- [Europe just started building a 'kill switch' for U.S. tech - and the market isn't priced for it, says this strategist](https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist)
 
 - [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 
@@ -37,6 +40,10 @@ Digital sovereignty refers to the ability to have control over your own digital 
 - [Geopolitics push European CIOs to think local on cloud](https://www.theregister.com/2025/11/13/gartner_cio_cloud_sovereignty/)
 
 - [Euro firms must ditch US clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
+
+- [The world is trying to log off U.S. tech](https://restofworld.org/2026/big-tech-backlash-alternatives-upscrolled/)
+
+</details>
 
 ## How it Evolved
 
