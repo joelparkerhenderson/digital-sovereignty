@@ -6,7 +6,6 @@ Summary: I'm researching digital sovereignty options for cloud providers for Uni
 
 This is a work in progress. This table of cloud providers is ranked by my personal preference, based on my direct experience thus far.
 
-<<<<<<< HEAD
 | Company | Owners | UK/EU | UK VPS? | Alignment? | Account? | Pros | Cons |
 |-----------------|-----------------|--------|---------|------------|----------|-----------------------------------------------------|---------------------------------------------------------|
 | **Krystal.io** | 🇬🇧 UK | 🇬🇧 UK | ✅ | ✅ | ✅ | UK home. London VPS. B-Corp. Superb sustainability. CEO help. | UK and Amsterdam, no other geographies. BYO emailer. |
